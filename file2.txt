@@ -1,1 +1,1 @@
-Adding second txt file.
+Learning Git fundamentals, Adding second txt file.
